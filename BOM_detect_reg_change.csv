@@ -1,0 +1,16 @@
+No.,Reference,Part number,Characteristic,Manufacturer,Description,Qty.
+1,C1,865080642006,CAN - SMD,Würth Elektronik,CAP ALUM 10UF 20% 50V SMD,1,https://www.digikey.jp/ja/products/detail/w%C3%BCrth-elektronik/865080642006/5728046
+2,C2,C1608X7R1H104K080AA,0603 (1608 Metric),TDK Corporation,CAP CER 0.1UF 50V X7R 0603,1,https://www.digikey.jp/ja/products/detail/tdk-corporation/C1608X7R1H104K080AA/513811
+3,C3,C1608C0G1H471J080AA,0603 (1608 Metric),TDK Corporation,CAP CER 470PF 50V C0G 0603,1,https://www.digikey.jp/ja/products/detail/tdk-corporation/C1608C0G1H471J080AA/513775
+4,R1,SG73P1JTTD1004F,0603 (1608 Metric),KOA Speer Electronics,RES 1M OHM 1% 1/3W 0603,1,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/SG73P1JTTD1004F/10188365
+5,R2 R5,SG73P1JTTD1001F,0603 (1608 Metric),KOA Speer Electronics,RES 1K OHM 1% 1/3W 0603,2,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/SG73P1JTTD1001F/10188084
+6,R3,SG73P1JTTD1002F,0603 (1608 Metric),KOA Speer Electronics,RES 10K OHM 1% 1/3W 0603,1,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/SG73P1JTTD1002F/10188408
+7,R4,SG73P1JTTD2002F,0603 (1608 Metric),KOA Speer Electronics,RES 20K OHM 1% 1/3W 0603,1,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/SG73P1JTTD2002F/10188044
+8,R6,SG73P1JTTD1003F,0603 (1608 Metric),KOA Speer Electronics,RES 100K OHM 1% 1/3W 0603,1,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/SG73P1JTTD1003F/10188341
+9,R7,RK73B1JTTD621J,0603 (1608 Metric),KOA Speer Electronics,RES 620 OHM 5% 1/8W 0603,1,https://www.digikey.jp/ja/products/detail/koa-speer-electronics-inc/RK73B1JTTD621J/9844798
+10,U1,AD8506ARMZ,8-TSSOP,Analog Devices Inc.,IC CMOS 2 CIRCUIT 8MSOP,1,https://www.digikey.jp/ja/products/detail/analog-devices-inc/AD8506ARMZ/1971603
+11,Q1,IRLML6344TRPBF,SOT-23-3,Infineon Technologies,MOSFET N-CH 30V 5A MICRO3/SOT23,1,https://www.digikey.jp/ja/products/detail/infineon-technologies/IRLML6344TRPBF/2538152
+12,D1,ESDA5-1F4,0201 (0603 Metric),STMicroelectronics,TVS DIODE 5.5VWM 9VC 0201,1,https://www.digikey.jp/ja/products/detail/stmicroelectronics/ESDA5-1F4/7313246
+13,D2,XZMDK53W-1,0603 (1608 Metric),SunLED,LED RED CLEAR CHIP SMD,1,https://www.digikey.jp/ja/products/detail/sunled/XZMDK53W-1/4745950
+14,CN1,691210910002,2.54mm pitch Through-Hole,Würth Elektronik,TERM BLOCK 2P HORIZON 2.54MM PCB,1,https://www.digikey.jp/ja/products/detail/w%C3%BCrth-elektronik/691210910002/10668428
+15,P1 P2 P3 P4,85,2.54mm pitch Through-Hole,Adafruit Industries LLC,STACKING HEADER ARDUINO SHIELD,1,https://www.digikey.jp/ja/products/detail/adafruit-industries-llc/85/5154649
